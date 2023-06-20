@@ -10,7 +10,7 @@ I'm currently working on writing Kernel patches, automating my environment with 
 
 I love to learn about low level software development, hacking techniques and microarchitectures. 
 
-Fun fact: my username comes from Retpoline, a mitigation for branch target injection that was discovered on the Meltdown/Spectre vulnerabilities. 
+Fun fact: my username comes from Retpoline, a mitigation for the branch target injection attack that was discovered on the Meltdown/Spectre vulnerabilities. 
 
 Reach me at retpolanne@posteo.net.
 
