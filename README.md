@@ -1,8 +1,8 @@
-# retpolanne - Anne Macedo 🐱🏳️‍⚧️
+# retpolanne - Anne "Anya" Macedo 🐱🏳️‍⚧️
 ## Your friendly programmer catgirl 
 Pronouns she/her
 
-Hello, I'm Anne. 
+Hello, I'm Anne. You can call me Annie or Anya as well :)
 
 I'm a software engineer, infrastructure engineer and hacker.
 
