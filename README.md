@@ -1,6 +1,6 @@
-![Header](./header2.png)
 # retpolanne - Anne "Anya" Macedo 🐱🏳️‍⚧️
 ## Your friendly programmer catgirl 
+![Header](./header2.png)
 Pronouns she/her
 
 Hello, I'm Anne. You can call me Annie or Anya as well :)
