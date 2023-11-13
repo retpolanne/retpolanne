@@ -1,4 +1,4 @@
-# retpolanne - Anne "Anya" Macedo 🐱🏳️‍⚧️
+# retpolanne - Anne Isabelle "Anya" Macedo 🐱🏳️‍⚧️
 ## Your friendly programmer catgirl 
 ![Header](./header2.png)
 Pronouns she/her
