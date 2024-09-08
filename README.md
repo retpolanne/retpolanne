@@ -13,7 +13,7 @@ I love to learn about low level software development, hacking techniques and mic
 
 Fun fact: my username comes from Retpoline, a mitigation for the branch target injection attack that was discovered on the Meltdown/Spectre vulnerabilities. 
 
-Reach me at retpolanne@posteo.net.
+Reach me at annie@retpolanne.com.
 
 ## Open Source Brag Document
 
