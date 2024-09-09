@@ -31,10 +31,11 @@ Reach me at annie@retpolanne.com.
 ### Patches awaiting approval/merge
 
 - flashrom [flashchips: Add support for PUYA P25Q40H](https://review.coreboot.org/c/flashrom/+/76251)
-- u-boot [[PATCH] sunxi: H6: Enable Ethernet on Orange Pi One Plus](https://lore.kernel.org/u-boot/20230711003957.658805-2-retpolanne@posteo.net/T/#u)
+- apache spark [CLI support for Spark-on-Docker-on-Yarn](https://github.com/apache/spark/pull/48018)
 
 ### Rejected patches 
 
+- u-boot [[PATCH] sunxi: H6: Enable Ethernet on Orange Pi One Plus](https://lore.kernel.org/u-boot/20230711003957.658805-2-retpolanne@posteo.net/T/#u)
 - linux kernel [[PATCH] libbpf: add validation to BTF's variable type ID](https://lore.kernel.org/bpf/20220929160558.5034-1-annemacedo@linux.microsoft.com/)
 - linux kernel [[PATCH] usb: host: xhci: parameterize Renesas delay/retry](https://lore.kernel.org/lkml/2023061951-taekwondo-unsoiled-faf2@gregkh/T/)
 - linux kernel [[PATCH] usb: host: xhci: remove renesas rom wiping](https://lore.kernel.org/lkml/20230626204910.728-3-retpolanne@posteo.net/T/)
