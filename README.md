@@ -1,15 +1,16 @@
 # retpolanne - Anne Isabelle "Anya" Macedo 🐱🏳️‍⚧️
 ## Your friendly programmer catgirl 
-![Header](./header2.png)
+<img width="1459" height="664" alt="Screenshot 2026-04-29 at 17 35 00" src="https://github.com/user-attachments/assets/1b5c8ad2-ff22-4078-9e1a-f334595e96d2" />
+
 Pronouns she/her
 
-Hello, I'm Anne. You can call me Annie or Anya as well :)
+Hello, I'm Anne Isabelle. You can call me Annie or Anya as well :)
 
-I'm a software engineer, infrastructure engineer and hacker.
+I'm a staff virtualization engineer. I'm also a software engineer, infrastructure engineer and, in a way, a hacker. 
 
-I'm currently working on writing Kernel patches, automating my environment with Ansible and Terraform and making dev environments with Nix. I'm currently learning embedded Linux development. 
+I ventured into kernel dev, embedded development, low level stuff, weird hacks and computer arts. I like to do all sorts of fun stuff with computers. 
 
-I love to learn about low level software development, hacking techniques and microarchitectures. 
+Outside of work, I (try) to be a writer, a musician, an artist and I do lots of stuff that don't actually require computers. 
 
 Fun fact: my username comes from Retpoline, a mitigation for the branch target injection attack that was discovered on the Meltdown/Spectre vulnerabilities. 
 
